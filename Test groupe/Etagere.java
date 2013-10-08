@@ -3,7 +3,7 @@ package com.sio;
 public class Etagere {
   private Livre[] livres;
   private int nbLivres = 0; // nbre de livres qu'il y a dans l'�tag�r
-
+// its me brooooooooooooooooogniart
   public Etagere(int nb) {
     livres = new Livre[nb];
   }
