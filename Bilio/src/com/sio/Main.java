@@ -3,7 +3,7 @@ package com.sio;
 public class Main {
 
     public static void main(String[] args) {
-        Livre l1 = new Livre("livre modif", "t1");
+        Livre l1 = new Livre("livre modi", "t1");
         l1.setNbPages(200);
         l1.setPrix(239.50);
         Livre l2 = new Livre("a2", "t2");
